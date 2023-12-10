@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tMtpq3dFFc1XwwQhxHo
     access-key-secret: 3N7ixuzAFq6n6yucOi63O2jgNcXLbf
     bucket-name: sky-coderedma
+  redis:
+    host: 192.168.33.10
+    port: 6379
+    password: 123456
+    database: 0
